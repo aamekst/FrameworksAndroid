@@ -9,6 +9,8 @@
  * Em vez de escrever um código diferente para cada sistema operacional, ele usa a mesma base de código para criar um aplicativo móvel multiplataforma.
  * O código compila para código de máquina ARM ou Intel, como JavaScript, para obter um desempenho melhor e mais rápido.
  * Os codigos podem ser felxiveis, produtivos e rápidos.
+ * o Flutter dispobiliza um codigo teste para vizualizar a aplicação, como se fosse uma page home demo.
+ 
 
 ## Exemplo de codigo
 
@@ -35,7 +37,7 @@
       );
     }
     
- Como instalar no windowns
+ ## Como instalar no windowns
  
         1. Criar uma pasta no DIR C: como o nome de **src** (C:\src).
         2. Entrar no site do flutter, e baixar o "Get the Flutter SDK" ( GET STARTED -> WINDOWNS -> Get the Flutter SDK ).
