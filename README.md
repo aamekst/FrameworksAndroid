@@ -7,6 +7,8 @@
  * É desenvolvido pelo Dart, uma linguagem otimizada para aplicativos rápidos em qualquer plataforma, ou seja, pode ser usado em aplicações moveis, web, IOS, android e desktop.
  * Pode ser instalado no VS CODE e Android Studio.
  * Em vez de escrever um código diferente para cada sistema operacional, ele usa a mesma base de código para criar um aplicativo móvel multiplataforma.
+ * O código compila para código de máquina ARM ou Intel, como JavaScript, para obter um desempenho melhor e mais rápido.
+ * Os codigos podem ser felxiveis, produtivos e rápidos.
 
 ## Exemplo de codigo
 
