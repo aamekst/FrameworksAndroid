@@ -10,6 +10,8 @@
  * O código compila para código de máquina ARM ou Intel, como JavaScript, para obter um desempenho melhor e mais rápido.
  * Os codigos podem ser felxiveis, produtivos e rápidos.
  * o Flutter dispobiliza um codigo teste para vizualizar a aplicação, como se fosse uma page home demo.
+ * Foi lançado em 2017, e sua ultima versão foi realizada a 36 dias atrás.
+ * linguagens usadas C+ | DART | C
  
 
 ## Exemplo de codigo
